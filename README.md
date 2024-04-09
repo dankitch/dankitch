@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Terraform with Azure.
+- 🔭 I’m currently working with Terraform and Azure.
 - ⚡ Fun fact: I always order the biggest burger on the menu :hamburger:
 
 ## Some Numbers
